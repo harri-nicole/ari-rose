@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harri-nicole
-- 👀 I’m interested in UX Design and Front End.
-- 🌱 I’m currently learning Javascript!
+- 💻 I’m a UX Designer / Front-end Developer
+- 🌱 I’m currently learning Javascript and React!
 - 💞️ I’m looking to collaborate on fun front end projects!
 - 📫 Reach me at harri.kinsman@gmail.com
